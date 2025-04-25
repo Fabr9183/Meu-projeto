@@ -1,3 +1,4 @@
+print('Alterado no celular')
 while True:
     print('LOJA DO BRAZ!')
     text = f"""
