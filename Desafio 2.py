@@ -1,4 +1,4 @@
-print('Alterado no celular')
+print('Alterado no celular'
 while True:
     print('LOJA DO BRAZ!')
     text = f"""
